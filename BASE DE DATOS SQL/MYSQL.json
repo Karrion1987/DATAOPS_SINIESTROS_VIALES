@@ -1,0 +1,30 @@
+[
+    {
+      "name": "MYSQL_ADDON_DB",
+      "value": "bzhmeejph3z1vgbjnzlg"
+    },
+    {
+      "name": "MYSQL_ADDON_HOST",
+      "value": "bzhmeejph3z1vgbjnzlg-mysql.services.clever-cloud.com"
+    },
+    {
+      "name": "MYSQL_ADDON_PASSWORD",
+      "value": "7CtfW2v6vClzQWzw5GEF"
+    },
+    {
+      "name": "MYSQL_ADDON_PORT",
+      "value": "3306"
+    },
+    {
+      "name": "MYSQL_ADDON_URI",
+      "value": "mysql://ud1dooj45ylgp9et:7CtfW2v6vClzQWzw5GEF@bzhmeejph3z1vgbjnzlg-mysql.services.clever-cloud.com:3306/bzhmeejph3z1vgbjnzlg"
+    },
+    {
+      "name": "MYSQL_ADDON_USER",
+      "value": "ud1dooj45ylgp9et"
+    },
+    {
+      "name": "MYSQL_ADDON_VERSION",
+      "value": "8.0"
+    }
+  ]

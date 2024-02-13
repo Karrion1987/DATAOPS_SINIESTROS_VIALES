@@ -1,0 +1,1 @@
+SELECT * FROM bzhmeejph3z1vgbjnzlg.siniestros;
