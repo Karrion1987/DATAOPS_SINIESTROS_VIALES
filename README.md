@@ -1,5 +1,8 @@
 # DATAOPS_SINIESTROS_VIALES
 
+### En Construcción
+![En construcción](https://img.icons8.com/color/30/000000/under-construction.png)
+
 # Proyecto de Análisis de Siniestros Viales en la Ciudad Autónoma de Buenos Aires
 
 ## Presentación Personal
@@ -10,22 +13,32 @@
 
 El objetivo principal de este proyecto es analizar y visualizar datos relacionados con siniestros viales en la Ciudad de Buenos Aires. A través de este análisis, buscamos identificar patrones, tendencias y áreas de alto riesgo para contribuir a la toma de decisiones informadas y a la implementación de medidas preventivas.
 
-## Tecnologías Utilizadas
+# Proyecto: Análisis de Siniestros Viales en la Ciudad Autónoma de Buenos Aires
 
-En este proyecto, he utilizado una variedad de tecnologías y herramientas, entre las cuales se incluyen:
+### Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- <img src="https://www.python.org/static/community_logos/python-logo.png" height="20" /> Python
-- <img src="https://pandas.pydata.org/static/img/pandas.svg" height="20" /> Pandas
-- <img src="https://numpy.org/images/logos/numpy.svg" height="20" /> NumPy
-- <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="20" /> Matplotlib
-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="20" /> Seaborn
-- <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="20" /> Power BI
-- <img src="https://img.icons8.com/ios/48/000000/mysql-logo.png" height="20" /> MySQL
-- <img src="https://img.icons8.com/color/48/000000/streamlit.png" height="20" /> Streamlit
-- <img src="https://img.icons8.com/material-outlined/48/000000/github.png" height="20" /> GitHub
-- <img src="https://img.icons8.com/color/48/000000/jupyter.png" height="20" /> Jupyter Notebooks
+### Bibliotecas y Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## Estructura del Proyecto
+### Herramientas de Visualización
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=for-the-badge&logo=seaborn&logoColor=white)
+
+### Bases de Datos
+![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Herramientas de BI y Visualización
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+
+### Procesamiento de Datos
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### En Construcción
+![En construcción](https://img.icons8.com/color/30/000000/under-construction.png)
 
 El repositorio en GitHub está organizado de la siguiente manera:
 
