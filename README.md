@@ -1,6 +1,6 @@
 # DATAOPS SINIESTROS VIALES
 
-![alt text](<Banner Fenix Ofertas y Descuentos Moderno Azul.png>)
+![!\[alt text\](<Banner Fenix Ofertas y Descuentos Moderno Azul.png>)](<images/Banner Fenix Ofertas y Descuentos Moderno Azul.png>)
 
 # Proyecto de Análisis de Siniestros Viales en la Ciudad Autónoma de Buenos Aires
 
@@ -20,7 +20,7 @@ En el contexto de una ciudad con altas densidades de tráfico y población como 
 
 *Notebooks:* Contiene el análisis exploratorio de datos (EDA) detallado y documentado. El notebook se centra en la búsqueda de valores faltantes, identificación de outliers y registros duplicados, y presenta gráficos significativos para entender las tendencias.
 
-![alt text](image-2.png)
+![!\[alt text\](image-2.png)](images/image-2.png)
 
 *Dashboard:* Aquí encontrarás el código y archivos necesarios para nuestro dashboard interactivo. Este dashboard proporciona una visión clara y detallada de las tendencias y patrones descubiertos durante el análisis.
 
@@ -28,11 +28,11 @@ En el contexto de una ciudad con altas densidades de tráfico y población como 
 
 *SQL:* En esta carpeta encontrarás scripts SQL utilizados para crear bases de datos relacionales que pueden ser utilizadas como fuente de datos para herramientas de visualización como Power BI.
 
-![alt text](image-3.png)
+![!\[alt text\](image-3.png)](images/image-3.png)
 
 *Clever Cloud:* En este link encontrarás las conexiones de la base de datos MySQL utilizados para crear bases de datos en la nube  que pueden ser utilizadas como fuente de datos para herramientas de visualización como Power BI.
 
-![alt text](image-4.png)
+![!\[alt text\](image-4.png)](images/image-4.png)
 
 *Material_Apoyo:* Recursos adicionales, como lecturas recomendadas, información del Observatorio de Movilidad y Seguridad Vial, y materiales que respaldan nuestro enfoque y decisiones durante el proyecto.
 
@@ -44,12 +44,12 @@ Visita nuestro [dashboard interactivo](enlace-al-dashboard) para explorar detall
 
 En la sección de KPIs, encontrarás gráficos y métricas que miden nuestro progreso hacia dos objetivos clave: reducir en un 10% la tasa de homicidios en siniestros viales y en un 7% la cantidad de accidentes mortales de motociclistas y la cantidad de victimas en comunas con una reduccion del 5%.
 
-![alt text](image.png)
+![!\[alt text\](image.png)](images/image.png)
 
 ### Otras Métricas a considerar:
 Tasa de accidentes por sexo masculino y femenino comparando con la tasa total.
 
-![alt text](image-1.png)
+![!\[alt text\](image-1.png)](images/image-1.png)
 
 El repositorio en GitHub está organizado de la siguiente manera:
 
