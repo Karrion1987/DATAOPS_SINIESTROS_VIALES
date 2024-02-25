@@ -4,8 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Cargar el DataFrame desde un archivo CSV
-file_path = 'C:\\Users\\Usuario\\Desktop\\DATAOPS_SINIESTROS_VIALES\\EDA + ETL\\df_siniestros_final.csv'
-df_siniestros_final = pd.read_csv(file_path)
+#file_path = 'https://github.com/Karrion1987/DATAOPS_SINIESTROS_VIALES/blob/main/EDA%20%2B%20ETL/df_siniestros_final.csv'
+#df_siniestros_final = pd.read_csv(file_path)
 
 # Título
 st.title("App Streamlit sobre Siniestros Viales")
