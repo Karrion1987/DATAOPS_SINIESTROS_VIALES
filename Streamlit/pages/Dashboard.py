@@ -23,5 +23,5 @@ st.title("Dashboard de Power BI")
 st.markdown("*")
 
 # Embed del dashboard de Power BI
-power_bi_url = '<iframe title="SINIESTROS_VIALES" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2QyZTFjZmMtMGZkZS00ZjYyLWFlYTMtM2UyNzkzYmM4OGVkIiwidCI6IjRhMmE4MWRjLTE0MWQtNDM3My05MDgzLWQxNDY4YmRjYjE3NSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>'
-st.write(power_bi_url, unsafe_allow_html=True)
+st.components.v1.iframe("https://app.powerbi.com/view?r=eyJrIjoiY2QyZTFjZmMtMGZkZS00ZjYyLWFlYTMtM2UyNzkzYmM4OGVkIiwidCI6IjRhMmE4MWRjLTE0MWQtNDM3My05MDgzLWQxNDY4YmRjYjE3NSIsImMiOjR9", 
+width=800, height=600)
