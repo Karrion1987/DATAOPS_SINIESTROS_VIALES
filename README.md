@@ -6,7 +6,7 @@
 
 ## Presentación Personal
 
-¡Hola! Mi nombre es [Allan] y estoy emocionado de presentar mi proyecto de análisis de siniestros viales en la Ciudad Autónoma de Buenos Aires. Soy [tu profesión o rol], apasionado por [temas relacionados con tu proyecto], y he decidido enfocar mis habilidades en mejorar la seguridad vial en nuestra ciudad.
+¡Hola! Mi nombre es Allan Alvarez y estoy emocionado de presentar mi proyecto de análisis de siniestros viales en la Ciudad Autónoma de Buenos Aires. Soy Data Analyst y Data Scientist, apasionado por los datos, y he decidido enfocar mis habilidades en mejorar la seguridad vial en nuestra ciudad.
 
 
 ## Objetivo del Proyecto
@@ -95,7 +95,11 @@ El [Repositorio](https://github.com/Karrion1987/DATAOPS_SINIESTROS_VIALES)
 
 ## Conclusión y Recomendaciones
 
-Lee nuestro reporte de análisis para obtener una visión detallada de nuestras conclusiones y recomendaciones. Este documento proporciona una síntesis de las acciones sugeridas para mejorar la seguridad vial en Buenos Aires.
+En resumen, nuestro análisis revela que la tasa de homicidios por accidentes de tránsito entre 2016 y 2021 cumplió el objetivo solo en 2019 y 2021 comparando con el semestre anterior en cada caso. Sin embargo, el 2019 fue atípico debido a la pandemia y el confinamiento, lo que redujo significativamente los siniestros viales. Se observó una disminución de la tasa de accidentes con motos solo en 2018 y 2021, sugiriendo que las estrategias de prevención implementadas en esos años podrían ser efectivas para reducir incidentes futuros.
+
+Es importante destacar que la mayoría de los siniestros involucran a peatones y motoristas. Se enfoca en estrategias de prevención y concientización ciudadana para mejorar la seguridad vial. Además, se nota que los accidentes en comunas disminuyeron en 2018 y 2021, señalando la efectividad de las medidas tomadas en esos años.
+
+Estos hallazgos resaltan la necesidad de implementar estrategias similares en los próximos años para lograr una gestión efectiva de los accidentes viales y crear conciencia ciudadana.
 
 ## Contribuciones y Colaboraciones
 
@@ -103,7 +107,7 @@ Estoy abierto a contribuciones y colaboraciones de la comunidad. Si tienes ideas
 
 ## Agradecimientos
 
-Agradezco a [Henry] por proporcionar datos valiosos para este proyecto.
+Agradezco a [HENRY](https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=Brand&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYc2lf6Owo0j7b-oTUtTyfzMjHP3A2ElR4p2P0asUimrrxIi2RhpQrBoCBxMQAvD_BwE) por proporcionar datos valiosos para este proyecto.
 Este proyecto no solo es un análisis de datos; es un esfuerzo colaborativo para hacer que las calles de Buenos Aires sean más seguras. ¡Gracias por explorar nuestro trabajo! 🚀💛
 Gracias por tu interés y apoyo.
 
@@ -129,4 +133,20 @@ Gracias por tu interés y apoyo.
 ### Procesamiento de Datos
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-[¡Allan!]
+## Autor:  Allan Alvarez <br />
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/allan-alvarez-gonzalez-6783a2256/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/138166529?v=4" width="200" alt="Allan Alvarez">
+  </a>
+  <br>
+  Allan Alvarez 
+  <br>
+  <a href="https://www.linkedin.com/in/allan-alvarez-gonzalez-6783a2256/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href='mailto:elganador.inversionista1987@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
