@@ -67,15 +67,31 @@ Tasa de accidentes por sexo masculino y femenino comparando con la tasa total.
 El [Repositorio](https://github.com/Karrion1987/DATAOPS_SINIESTROS_VIALES)
  en GitHub está organizado de la siguiente manera:
 
-- **Notebooks:** Contiene los Jupyter Notebooks utilizados para la exploración y análisis de datos.
-DATABASE SQL: [MYSQL](<DATABASE SQL/MYSQL SINIESTROS.sql>)	Contiene la base de datos SQL utilizada en el proyecto.
-DATASET excel: [DATASET](<DATASET excel/homicidios.xlsx>)	Contiene el conjunto de datos en formato Excel.
-EDA + ETL: [EDA](<EDA + ETL/EDA.ipynb>)	Contiene los scripts para el análisis exploratorio de datos (EDA) y la transformación, extracción y carga (ETL) de datos.
-Streamlit: [APP](Streamlit/Inicio.py)	Contiene la aplicación web desarrollada con Streamlit.
-images: [IMAGENES](images)	Contiene las imágenes utilizadas en el proyecto.
-README.md: [README](README.md)	Contiene el archivo README con la descripción del proyecto.
-SINIESTROS_VIALES.pbix: [DASHBOARD](SINIESTROS_VIALES.pbix)	Contiene el archivo Power BI con el análisis de los siniestros viales.
-requirements.txt: [LIBRERIAS](requirements.txt)	Contiene los requisitos del proyecto.
+
+
+1. 📂 **DATABASE SQL (MYSQL):**
+   - [MYSQL SINIESTROS.sql](<DATABASE SQL/MYSQL SINIESTROS.sql>) - Contiene la base de datos MySQL utilizada en el proyecto.
+
+2. 📂 **DATASET Excel:**
+   - [homicidios.xlsx](<DATASET excel/homicidios.xlsx>) - Archivo Excel que contiene el conjunto de datos.
+
+3. 📂 **EDA + ETL:**
+   - [EDA.ipynb](<EDA + ETL/EDA.ipynb>) - Cuaderno Jupyter con scripts para el Análisis Exploratorio de Datos (EDA) y procesos de Extracción, Transformación y Carga (ETL).
+
+4. 📂 **Streamlit App:**
+   - [Inicio.py](Streamlit/Inicio.py) - Aplicación web de Streamlit para la visualización interactiva de datos.
+
+5. 📂 **Images:**
+   - [IMAGENES](images) - Directorio que contiene imágenes utilizadas en el proyecto.
+
+6. 📄 **README:**
+   - [README.md](README.md) - Documentación del proyecto con una descripción de los componentes.
+
+7. 📄 **Power BI Dashboard:**
+   - [SINIESTROS_VIALES.pbix](SINIESTROS_VIALES.pbix) - Archivo Power BI con el análisis de incidentes vehiculares.
+
+8. 📄 **Requisitos:**
+   - [REQUIREMENTS](requirements.txt) - Lista de dependencias del proyecto.
 
 ## Conclusión y Recomendaciones
 
