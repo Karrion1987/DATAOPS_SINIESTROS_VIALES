@@ -93,6 +93,7 @@ El [Repositorio](https://github.com/Karrion1987/DATAOPS_SINIESTROS_VIALES)
 8. 📄 **Requisitos:**
    - [REQUIREMENTS](requirements.txt) - Lista de dependencias del proyecto.
 
+![alt text](images/Workflow.png)
 ## Conclusión y Recomendaciones
 
 En resumen, nuestro análisis revela que la tasa de homicidios por accidentes de tránsito entre 2016 y 2021 cumplió el objetivo solo en 2019 y 2021 comparando con el semestre anterior en cada caso. Sin embargo, el 2019 fue atípico debido a la pandemia y el confinamiento, lo que redujo significativamente los siniestros viales. Se observó una disminución de la tasa de accidentes con motos solo en 2018 y 2021, sugiriendo que las estrategias de prevención implementadas en esos años podrían ser efectivas para reducir incidentes futuros.
