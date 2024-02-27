@@ -8,9 +8,13 @@
 
 ¡Hola! Mi nombre es [Allan] y estoy emocionado de presentar mi proyecto de análisis de siniestros viales en la Ciudad Autónoma de Buenos Aires. Soy [tu profesión o rol], apasionado por [temas relacionados con tu proyecto], y he decidido enfocar mis habilidades en mejorar la seguridad vial en nuestra ciudad.
 
+
 ## Objetivo del Proyecto
 
 El objetivo principal de este proyecto es analizar y visualizar datos relacionados con siniestros viales en la Ciudad de Buenos Aires. A través de este análisis, buscamos identificar patrones, tendencias y áreas de alto riesgo para contribuir a la toma de decisiones informadas y a la implementación de medidas preventivas.
+
+Este proyecto se realizó simulando ser un Data Analist de una consultora; y tiene como finalidad la elaboración de un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
+
 
 ## Descripción del Problema
 
@@ -22,23 +26,32 @@ En el contexto de una ciudad con altas densidades de tráfico y población como 
 
 ![!\[alt text\](image-2.png)](images/image-2.png)
 
-*Dashboard:* Aquí encontrarás el código y archivos necesarios para nuestro dashboard interactivo. Este dashboard proporciona una visión clara y detallada de las tendencias y patrones descubiertos durante el análisis.
+*Dashboard:* Aquí encontrarás el  dashboard interactivo. Este dashboard proporciona una visión clara y detallada de las tendencias y patrones descubiertos durante el análisis.
+
+![alt text](images/dashboard.png)
 
 *Data:* Incluye el conjunto de datos utilizado para el análisis, denominado "hechos.xlsx", y "victimas.xlsx". Además, se detallan en el README del dataset las notas importantes para su uso el cual se fusiona para crear el archivo "df_siniestros_final.csv", listo para continuar con las demas etapas.
 
-*SQL:* En esta carpeta encontrarás scripts SQL utilizados para crear bases de datos relacionales que pueden ser utilizadas como fuente de datos para herramientas de visualización como Power BI.
+Las tasas de mortalidad relacionadas con siniestros viales suelen ser un indicador crítico de la seguridad vial en una región. Estas tasas se calculan, generalmente, como el número de muertes por cada cierto número de habitantes o por cada cierta cantidad de vehículos registrados. Reducir estas tasas es un objetivo clave para mejorar la seguridad vial y proteger la vida de las personas en la ciudad.
+
+Para cumplir con ello, los datos iniciales que se utilizan son derivados de un dataset con información sobre homicidios de siniestros viales en la Ciudad de Buenos Aires, durante los años 2016-2021, que es de píblico acceso en la página oficial de CABA. 
+Podemos acceder a ellos desde [Datos oficiales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+
+
+*SQL:* En esta carpeta encontrarás scripts SQL utilizado para crear bases de datos relacionales que pueden ser utilizadas como fuente de datos para herramientas de visualización como Power BI y ademas como fuente remota de los datos.
 
 ![!\[alt text\](image-3.png)](images/image-3.png)
 
-*Clever Cloud:* En este link encontrarás las conexiones de la base de datos MySQL utilizados para crear bases de datos en la nube  que pueden ser utilizadas como fuente de datos para herramientas de visualización como Power BI.
+*Clever Cloud:* En este link encontrarás las conexiones de la base de datos MySQL utilizados para crear bases de datos en la nube  que pueden ser utilizadas como fuente de datos para herramientas de visualización como Power BI. [Clever Cloud](https://console.clever-cloud.com/) 
 
 ![!\[alt text\](image-4.png)](images/image-4.png)
 
-*Material_Apoyo:* Recursos adicionales, como lecturas recomendadas, información del Observatorio de Movilidad y Seguridad Vial, y materiales que respaldan nuestro enfoque y decisiones durante el proyecto.
+*Material_Apoyo:* Recursos adicionales, como lecturas recomendadas, información del Observatorio de Movilidad y Seguridad Vial, y materiales que respaldan nuestro enfoque y decisiones durante el proyecto. [Población por Año](https://www.estadisticaciudad.gob.ar/eyc/wp-content/uploads/2040/05/CABA1040.xls)
+
 
 ## Dashboard Interactivo
 
-Visita nuestro [dashboard interactivo](enlace-al-dashboard) para explorar detalladamente los datos. Los filtros te permitirán navegar por la información de manera intuitiva, y la presentación visual facilitará la interpretación de los hallazgos.
+Visita nuestro [Dashboard Interactivo](https://dataops-siniestros-labs.streamlit.app/) para explorar detalladamente los datos. Los filtros te permitirán navegar por la información de manera intuitiva, y la presentación visual facilitará la interpretación de los hallazgos.
 
 ## KPIs y Compromisos
 
@@ -51,7 +64,8 @@ Tasa de accidentes por sexo masculino y femenino comparando con la tasa total.
 
 ![!\[alt text\](image-1.png)](images/image-1.png)
 
-El repositorio en GitHub está organizado de la siguiente manera:
+El [Repositorio](https://github.com/Karrion1987/DATAOPS_SINIESTROS_VIALES)
+ en GitHub está organizado de la siguiente manera:
 
 - **Notebooks:** Contiene los Jupyter Notebooks utilizados para la exploración y análisis de datos.
 - **Datos:** Almacena los conjuntos de datos utilizados en el proyecto.
