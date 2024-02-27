@@ -25,3 +25,16 @@ st.markdown("*")
 # Embed del dashboard de Power BI
 st.components.v1.iframe("https://app.powerbi.com/view?r=eyJrIjoiY2QyZTFjZmMtMGZkZS00ZjYyLWFlYTMtM2UyNzkzYmM4OGVkIiwidCI6IjRhMmE4MWRjLTE0MWQtNDM3My05MDgzLWQxNDY4YmRjYjE3NSIsImMiOjR9", 
 width=800, height=600)
+
+
+st.title("Conclusión y Recomendaciones")
+
+texto_conclusion = """
+En resumen, nuestro análisis revela que la tasa de homicidios por accidentes de tránsito entre 2016 y 2021 cumplió el objetivo solo en 2019 y 2021 comparando con el semestre anterior en cada caso. Sin embargo, el 2019 fue atípico debido a la pandemia y el confinamiento, lo que redujo significativamente los siniestros viales. Se observó una disminución de la tasa de accidentes con motos solo en 2018 y 2021, sugiriendo que las estrategias de prevención implementadas en esos años podrían ser efectivas para reducir incidentes futuros.
+
+Es importante destacar que la mayoría de los siniestros involucran a peatones y motoristas. Se enfoca en estrategias de prevención y concientización ciudadana para mejorar la seguridad vial. Además, se nota que los accidentes en comunas disminuyeron en 2018 y 2021, señalando la efectividad de las medidas tomadas en esos años.
+
+Estos hallazgos resaltan la necesidad de implementar estrategias similares en los próximos años para lograr una gestión efectiva de los accidentes viales y crear conciencia ciudadana.
+"""
+
+st.write(texto_conclusion)
