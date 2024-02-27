@@ -68,10 +68,14 @@ El [Repositorio](https://github.com/Karrion1987/DATAOPS_SINIESTROS_VIALES)
  en GitHub está organizado de la siguiente manera:
 
 - **Notebooks:** Contiene los Jupyter Notebooks utilizados para la exploración y análisis de datos.
-- **Datos:** Almacena los conjuntos de datos utilizados en el proyecto.
-- **Visualizaciones:** Contiene las imágenes o gráficos generados durante el análisis.
-- **Documentación:** Información adicional sobre el proyecto, instrucciones y resultados.
-
+DATABASE SQL: [MYSQL](<DATABASE SQL/MYSQL SINIESTROS.sql>)	Contiene la base de datos SQL utilizada en el proyecto.
+DATASET excel: [DATASET](<DATASET excel/homicidios.xlsx>)	Contiene el conjunto de datos en formato Excel.
+EDA + ETL: [EDA](<EDA + ETL/EDA.ipynb>)	Contiene los scripts para el análisis exploratorio de datos (EDA) y la transformación, extracción y carga (ETL) de datos.
+Streamlit: [APP](Streamlit/Inicio.py)	Contiene la aplicación web desarrollada con Streamlit.
+images: [IMAGENES](images)	Contiene las imágenes utilizadas en el proyecto.
+README.md: [README](README.md)	Contiene el archivo README con la descripción del proyecto.
+SINIESTROS_VIALES.pbix: [DASHBOARD](SINIESTROS_VIALES.pbix)	Contiene el archivo Power BI con el análisis de los siniestros viales.
+requirements.txt: [LIBRERIAS](requirements.txt)	Contiene los requisitos del proyecto.
 
 ## Conclusión y Recomendaciones
 
